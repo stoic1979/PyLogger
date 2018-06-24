@@ -12,3 +12,5 @@ log = get_logger()
 log.info("hello navi")
 log.debug("its some debug msg")
 ```
+
+![Alt text](screenshots/logs.png?raw=true "Some Logs")
